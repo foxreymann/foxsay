@@ -1,7 +1,7 @@
 #!/bin/bash
 if [$# -eq 0]
 then
-  /usr/games/fortune | foxsay
+  foxsay "FOX FOX FOXY"
 else
   foxsay "$@"
 fi
