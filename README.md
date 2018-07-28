@@ -1,2 +1,2 @@
 `$ docker build -t foxsay .`  
-`docker run foxsay`
+`$ docker run foxsay`
